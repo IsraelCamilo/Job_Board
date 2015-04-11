@@ -1,0 +1,17 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Listing Jobs</h1>
+
+<%= render @jobs %>
+<%= will_paginate @jobs %>
+
+<br>
+
+<%= link_to 'New Job', new_job_path %>
+
+<nav>
+<p><%= link_to 'Hello World', hello_world_path %> </p>
+</nav>
+<nav>
+<p><%= link_to 'Jobs Premium', root_path %> </p>
+</nav>
