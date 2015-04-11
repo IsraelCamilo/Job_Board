@@ -1,4 +1,4 @@
 == Readme
 
 Primeira App com Ruby on Rails!
-<br>E meu primeiro repositorio no GITHUB
+E meu primeiro repositorio no GITHUB
